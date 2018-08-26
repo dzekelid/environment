@@ -1,9 +1,10 @@
-title: Streamdata Gallery
+title: Streamdata API Gallery - Environment
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: environment.streamdata.gallery
 tag: Environment
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: environment
 github_branch: master
 collections:
