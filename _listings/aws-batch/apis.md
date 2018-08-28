@@ -14,11 +14,59 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Environment
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Batch API - Create Compute Environment
+  x-api-slug: actioncreatecomputeenvironment-get
+  description: Creates an AWS Batch compute environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/actioncreatecomputeenvironment-get-openapi.md
+- name: AWS Batch API - Delete Compute Environment
+  x-api-slug: actiondeletecomputeenvironment-get
+  description: Deletes an AWS Batch compute environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/actiondeletecomputeenvironment-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Update Compute Environment
+  x-api-slug: actionupdatecomputeenvironment-get
+  description: Updates an AWS Batch compute environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/actionupdatecomputeenvironment-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.auto.scaling.api.gallery.streamdata.io

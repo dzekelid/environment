@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/146-world-
 x-kinRank: "10"
 x-alexaRank: "2637"
 tags: Environment
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/world-bank-data/apis.md
 specificationVersion: "0.14"
 apis: []

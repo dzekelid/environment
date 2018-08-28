@@ -1,0 +1,546 @@
+{
+	"name": "Streadata.io API Gallery - Environment",
+	"description": "This is a repository of environment APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/environment.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://environment.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "World Bank Data",
+			"x-api-slug": "world-bank-data",
+			"description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/146-world-bank-data.jpg",
+			"humanURL": "http://data.worldbank.org/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/world-bank-data/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AMEE",
+			"x-api-slug": "amee",
+			"description": "Data driven solutions to strengthen supply chain performance and risk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg",
+			"humanURL": "https://www.amee.com",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/amee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ecolabel Index",
+			"x-api-slug": "ecolabel-index",
+			"description": "Ecolabel Index is the independent global directory of ecolabels and environmental certification schemes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/583-ecolabel-index.jpg",
+			"humanURL": "http://www.ecolabelindex.com",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/ecolabel-index/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EU EnvironmentAgency",
+			"x-api-slug": "eu-environmentagency",
+			"description": "European Union website - EUROPA is the official EU website that provides access to information published by all EU institutions, agencies and bodies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/584-eu-environmentagency.jpg",
+			"humanURL": "http://www.eea.europa.eu/code/gis",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/eu-environmentagency/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Encyclopedia of Life",
+			"x-api-slug": "encyclopedia-of-life",
+			"description": "The Encyclopedia of Life is an unprecedented effort to gather scientific knowledge about all animal and plant life where pictures, information, facts, and mo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/587-encyclopedia-of-life.jpg",
+			"humanURL": "http://eol.org/api",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/encyclopedia-of-life/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EPA Envirofacts",
+			"x-api-slug": "epa-envirofacts",
+			"description": "EPAs purpose is to ensure that:    -  all Americans are protected from significant risks to human health and the environment where they live, learn and work;    -  national efforts to reduce environmental risk are based on the best available scientifi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/773-epa-envirofacts.jpg",
+			"humanURL": "http://www.epa.gov",
+			"baseURL": "https://ofmpub.epa.gov//echo",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/epa-envirofacts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DataONE",
+			"x-api-slug": "dataone",
+			"description": "Data Observation Network for Earth (DataONE) is the foundation of new innovative environmental science through a distributed framework and sustainable cyberinfrastructure that meets the needs of science and society for open, persistent, robust, and sec...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1002-dataone.jpg",
+			"humanURL": "https://www.dataone.org/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/dataone/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ENERGY STAR",
+			"x-api-slug": "energy-star",
+			"description": "ENERGY STAR is the simple choice for energy efficiency. For more than 20 years, EPAs ENERGY STAR program has been Americas resource for saving energy and protecting the environment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1053-energy-star.jpg",
+			"humanURL": "https://data.energystar.gov",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/energy-star/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Renewable Energy Laboratory",
+			"x-api-slug": "national-renewable-energy-laboratory",
+			"description": "The National Renewable Energy Laboratory (NREL) is the nations primary laboratory for renewable energy and energy efficiency research and development (R&D).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1097-national-renewable-energy-laboratory.jpg",
+			"humanURL": "http://nrel.gov",
+			"baseURL": "https://developer.nrel.gov//api/transportation-incentives-laws",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/national-renewable-energy-laboratory/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clean Power Research",
+			"x-api-slug": "clean-power-research",
+			"description": "Clean Power Research provides cloud services that inform business decisions, engage customers & streamline operations for utilities and the energy industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1395-clean-power-research.jpg",
+			"humanURL": "http://www.cleanpower.com/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/clean-power-research/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Earth911 Search",
+			"x-api-slug": "earth911-search",
+			"description": "Commenting Policy:    Your comments are encouraged on our page. Please be respectful - any comments using hate-speech or profanity will be deleted. Users who repeatedly spam the page will be banned. Also, solicitations of any kind will be removed as we...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1407-earth911-search.jpg",
+			"humanURL": "http://api.earth911.com/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/earth911-search/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "European Alien Species Information Network",
+			"x-api-slug": "european-alien-species-information-network",
+			"description": "European Union website - EUROPA is the official EU website that provides access to information published by all EU institutions, agencies and bodies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1412-european-alien-species-information-network.jpg",
+			"humanURL": "http://easin.jrc.ec.europa.eu/use-easin/web-services",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/european-alien-species-information-network/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stremor Liquid Helium",
+			"x-api-slug": "stremor-liquid-helium",
+			"description": "Kong is the worlds most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1749-stremor-liquid-helium.jpg",
+			"humanURL": "https://www.mashape.com/stremor",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/stremor-liquid-helium/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Environmental Protection Agency",
+			"x-api-slug": "environmental-protection-agency",
+			"description": "The United States Environmental Protection Agency (EPA or sometimes USEPA) is an agency of the U.S. federal government which was created for the purpose of protecting human health and the environment by writing and enforcing regulations based on laws passed by Congress. The EPA was proposed by President Richard Nixon and began operation on December 2, 1970, after Nixon signed an executive order. The order establishing the EPA was ratified by committee hearings in the House and Senate. The agency is led by its Administrator, who is appointed by the president and approved by Congress. The current administrator is Gina McCarthy. The EPA is not a Cabinet department, but the administrator is normally given cabinet rank.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/280px-Environmental_Protection_Agency_logo.svg.png",
+			"humanURL": "http://www.epa.gov",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/environmental-protection-agency/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Climate Change Costs",
+			"x-api-slug": "climate-change-costs",
+			"description": "Are the benefits of using carbon greater than the cost of climate change? To answer this question, an independent organization called DARA created a report in September, 2012 studying the economic costs of climate change. Much has been said about the moral, political, and social costs of Climate Change, but with Climate Change caused disease, droughts, storms, habitat changes and more theres a clear economic $$ cost as well.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textLogoClimateChange.png",
+			"humanURL": "http://www.climatechangecosts.com/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/climate-change-costs/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BreezoMeter",
+			"x-api-slug": "breezometer",
+			"description": "World leading air pollution API. Top features: AQI map, forecast, pollen & air quality data. Clients trusting us: Dyson, Veolia and AccuWeather. Learn more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18769-breezometer.jpg",
+			"humanURL": "https://breezometer.com",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/breezometer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Florida State Antarctic Research Facility Core Database",
+			"x-api-slug": "florida-state-antarctic-research-facility-core-database",
+			"description": "I just found the one arctic research API at Florida State University, but it is a sign there is more, and now they are on my radar. I think that Florida State University reflects another trend Im seeing with APIs being born out of university research.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/florida-state-university.png",
+			"humanURL": "http://www.fsu.edu/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/florida-state-antarctic-research-facility-core-database/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RadResponder",
+			"x-api-slug": "radresponder",
+			"description": "The RadResponder Network is the national standard and Whole Community solution for the management of radiological data. It is a product of collaboration between Federal Emergency Management Agency (FEMA), Department of Energy (DOE) / National Nuclear Security Administration (NNSA), and the Environmental Protection Agency (EPA), and is provided free of charge to all Federal, state, local, tribal, and territorial response organizations.",
+			"image": "",
+			"humanURL": "https://www.radresponder.net/",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/radresponder/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Batch",
+			"x-api-slug": "aws-batch",
+			"description": "AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. With AWS Batch, there is no need to install and manage batch computing software or server clusters that you use to run your jobs, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2 and Spot Instances.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg",
+			"humanURL": "https://aws.amazon.com/batch/",
+			"baseURL": ":///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"x-api-slug": "aws-elastic-beanstalk",
+			"description": "AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, andDockeron familiar servers such as Apache, Nginx, Passenger, andIIS.You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png",
+			"humanURL": "https://aws.amazon.com/elasticbeanstalk/",
+			"baseURL": ":///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-elastic-beanstalk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CodeBuild",
+			"x-api-slug": "aws-codebuild",
+			"description": "AWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don&rsquo;t need to provision, manage, and scale your own build servers. CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue. You can get started quickly by using prepackaged build environments, or you can create custom build environments that use your own build tools. With CodeBuild, you are charged by the minute for the compute resources you use.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-build-console-icon.png",
+			"humanURL": "https://aws.amazon.com/codebuild/",
+			"baseURL": ":///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-codebuild/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sustainable Facilities Tool API",
+			"x-api-slug": "sustainable-facilities-tool-api",
+			"description": "Our core API allows developers to interact with the Sustainable Facilities Tool programmatically. Its designed for public use and to be easily integrated into other applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sustainable-facilities-mobile_504b7.png",
+			"humanURL": "https://sftool.gov/",
+			"baseURL": "https://api.data.gov//sftool/v1/",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/sustainable-facilities-tool-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Tag Manager",
+			"x-api-slug": "google-tag-manager",
+			"description": "Deploy and update measurement tags on your websites and mobile apps without major code changes and app releases. Use Google Tag Manager to manage tags (such as tracking and marketing optimization JavaScript tags) on your site. Without editing your site code, you use GTM user interface to add and update AdWords, Google Analytics, Floodlight, and non-Google tags. This reduces errors and allows you to to deploy tags on your site quickly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/googl_tag_manager_gplus-250.png",
+			"humanURL": "https://developers.google.com/tag-manager/",
+			"baseURL": "://www.googleapis.com//tagmanager/v1",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/google-tag-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mattermost",
+			"x-api-slug": "mattermost",
+			"description": "Open source, private cloud Slack-alternative, Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure, configurable, and scalable from teams to the enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png",
+			"humanURL": "https://mattermost.com",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/mattermost/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AppVeyor CI",
+			"x-api-slug": "appveyor-ci",
+			"description": "We provide continuous integration tools for Windows developers. The service is offered for free to open-source projects, we offer subscriptions for private projects and AppVeyor Enterprise installations on customer premises.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28368-app-veyor.jpg",
+			"humanURL": "http://appveyor.com",
+			"baseURL": "https://ci.appveyor.com//api",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/appveyor-ci/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Snow and Ice Data Center",
+			"x-api-slug": "national-snow-and-ice-data-center",
+			"description": "NSIDC manages and distributes scientific data, creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere.",
+			"image": "",
+			"humanURL": "http://nsidc.org",
+			"baseURL": "https://nsidc.org//api/dataset/2",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/national-snow-and-ice-data-center/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GitLab",
+			"x-api-slug": "gitlab",
+			"description": "GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipelines features, using an open-source license, developed by GitLab Inc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png",
+			"humanURL": "http://gitlab.com",
+			"baseURL": "https://localhost:3000//api",
+			"tags": "Environment",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/gitlab/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Environment",
+	"include": [
+		{
+			"name": "World Bank Data",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/world-bank-data/apis.yaml"
+		},
+		{
+			"name": "AMEE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/amee/apis.yaml"
+		},
+		{
+			"name": "Ecolabel Index",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/ecolabel-index/apis.yaml"
+		},
+		{
+			"name": "EU EnvironmentAgency",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/eu-environmentagency/apis.yaml"
+		},
+		{
+			"name": "Encyclopedia of Life",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/encyclopedia-of-life/apis.yaml"
+		},
+		{
+			"name": "EPA Envirofacts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/epa-envirofacts/apis.yaml"
+		},
+		{
+			"name": "DataONE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/dataone/apis.yaml"
+		},
+		{
+			"name": "ENERGY STAR",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/energy-star/apis.yaml"
+		},
+		{
+			"name": "National Renewable Energy Laboratory",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/national-renewable-energy-laboratory/apis.yaml"
+		},
+		{
+			"name": "Clean Power Research",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/clean-power-research/apis.yaml"
+		},
+		{
+			"name": "Earth911 Search",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/earth911-search/apis.yaml"
+		},
+		{
+			"name": "European Alien Species Information Network",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/european-alien-species-information-network/apis.yaml"
+		},
+		{
+			"name": "Stremor Liquid Helium",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/stremor-liquid-helium/apis.yaml"
+		},
+		{
+			"name": "Environmental Protection Agency",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/environmental-protection-agency/apis.yaml"
+		},
+		{
+			"name": "Climate Change Costs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/climate-change-costs/apis.yaml"
+		},
+		{
+			"name": "BreezoMeter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/breezometer/apis.yaml"
+		},
+		{
+			"name": "Florida State Antarctic Research Facility Core Database",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/florida-state-antarctic-research-facility-core-database/apis.yaml"
+		},
+		{
+			"name": "RadResponder",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/radresponder/apis.yaml"
+		},
+		{
+			"name": "AWS Batch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-batch/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-elastic-beanstalk/apis.yaml"
+		},
+		{
+			"name": "AWS CodeBuild",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/aws-codebuild/apis.yaml"
+		},
+		{
+			"name": "Sustainable Facilities Tool API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/sustainable-facilities-tool-api/apis.yaml"
+		},
+		{
+			"name": "Google Tag Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/google-tag-manager/apis.yaml"
+		},
+		{
+			"name": "Mattermost",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/mattermost/apis.yaml"
+		},
+		{
+			"name": "AppVeyor CI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/appveyor-ci/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "National Snow and Ice Data Center",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/national-snow-and-ice-data-center/apis.yaml"
+		},
+		{
+			"name": "GitLab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/environment/master/_listings/gitlab/apis.yaml"
+		}
+	]
+}
